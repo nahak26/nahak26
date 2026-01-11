@@ -1,5 +1,5 @@
 ## Hello there my name is Kahan Shah 
-I'm a senior pursuing a Bachelor of Science in Computer Engineering at the University of California, Santa Cruz (expected June 2025). I will be pursuing a Masters in Electrical and Computer Engineering. I have a strong foundation in both software and hardware development, and I have applied Scrum methodologies in my projects—having even served as a Product Owner—to ensure effective project execution and team collaboration.
+I'm a studnet pursuing a Masters of Science in Computer Engineering at the University of Southern California (expected May 2027).  I have a strong foundation in both software and hardware development, and I have applied Scrum methodologies in my projects—having even served as a Product Owner—to ensure effective project execution and team collaboration.
 
 ## Technical Skills
 - **Programming Languages:** Python, C++, Assembly, C, Java, RISC-V
