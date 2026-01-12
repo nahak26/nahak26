@@ -1,6 +1,10 @@
 ## Hello there my name is Kahan Shah 
 I'm a student pursuing a Masters of Science in Computer Engineering at the University of Southern California (expected May 2027).  I have a strong foundation in both software and hardware development, and I have applied Scrum methodologies in my projects, having even served as a Product Owner to ensure effective project execution and team collaboration.
 
+[Resume](https://drive.google.com/file/d/1aBTseedrGe6NzgeWZ8ScDiauvNIcMtmI/view?usp=sharing)
+
+
+
 ## Technical Skills
 - **Programming Languages:** Python, C++, Assembly, C, Java, RISC-V
 - **Hardware Design:** Verilog, SystemVerilog, Vivado, FPGA Development, Yosys
@@ -99,3 +103,5 @@ Feel free to reach out for collaborations or questions!
 
 [LinkedIn](https://www.linkedin.com/in/shah-kahan/)
 [Email](mailto:your.kahanshah7@gmail.com)
+
+
